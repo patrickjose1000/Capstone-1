@@ -99,7 +99,7 @@
 .card-body {
 	color: white;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 	background-color: rgba(0,0,0,0.5);
 }
 
@@ -233,3 +233,4 @@ h2 {
 .row h1 {
 	color: white;
 }
+
